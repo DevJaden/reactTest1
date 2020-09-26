@@ -44,7 +44,7 @@ function Main(){
                 <Link to="/todoList">TodoList</Link>
             </li>
             <li>
-                <Link to="/api">API Communication</Link>//
+                <Link to="/api">API Communication</Link>
             </li>
         </StudyList>
         </>

@@ -60,7 +60,7 @@ function TodoItems({id, text, clear}){
             type: 'REMOVE',
             id,
         })
-    },{});
+    },[]);
 
     return (
         <TodoItem>
