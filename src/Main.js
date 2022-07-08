@@ -13,7 +13,7 @@ const SubTitle = styled.p`
     margin-top: 10px;
 `;
 const Line = styled.hr`
-    margin-top: 50px;
+    margin-top: 52px;
     display: block;
 `;
 const StudyList = styled.ul`
